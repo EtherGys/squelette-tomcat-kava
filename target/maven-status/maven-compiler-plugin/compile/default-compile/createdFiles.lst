@@ -1,4 +1,14 @@
+com\example\services\PackageService.class
+com\example\Wrappers\PackageWrapper.class
+com\example\controller\LivreurController.class
+com\example\Model\Livreur.class
+com\example\Wrappers\LivraisonWrapper.class
 com\example\config\AppConfig.class
-com\example\model\User.class
+com\example\Wrappers\LivreurWrapper.class
 com\example\App.class
-com\example\controller\UserController.class
+com\example\controller\LivraisonController.class
+com\example\Model\Package.class
+com\example\controller\PackageController.class
+com\example\services\LivraisonService.class
+com\example\services\LivreurService.class
+com\example\Model\Livraison.class
